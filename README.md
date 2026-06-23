@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20MERN%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Abu%20Bakar%20Subhan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20MERN%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## Who I Am
 
-I'm a CS student at the University of Lahore, 5th semester, 3.7 GPA. My background is in C++ and DSA — that's where I built the foundation before I started working with frameworks.
+I'm a CS student at the University of Lahore, 5th semester, 3.7 GPA. My background is in C++ and DSA, that's where I built the foundation before I started working with frameworks.
 
 Right now I'm building full-stack web apps with the MERN stack. MongoDB, Express, React, Node. Still learning, still shipping.
 
-I've done the coursework that actually matters: OOP, Data Structures, Databases, Computer Networks. Not just to pass them — they changed how I think about code.
+I've done the coursework that actually matters: OOP, Data Structures, Databases, Computer Networks. Not just to pass them, they changed how I think about code.
 
 Looking for remote roles or onsite work in Lahore. Internships, junior positions, or real projects where I can contribute and pick things up from people who've been doing this longer.
 
@@ -69,24 +69,12 @@ MERN Stack                   ████████░░  Actively building
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" width="40%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-bakar-subhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itxabubakaras786@gmail.com)
 
 </div>
 
@@ -94,7 +82,7 @@ MERN Stack                   ████████░░  Actively building
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7C3AED&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=abu-bakar-subhan&color=7C3AED&style=flat-square&label=Profile+Views)
 
 </div>
 
